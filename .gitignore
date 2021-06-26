@@ -1,0 +1,6 @@
+.vscode/
+executables-and-images/
+ppmtest.cpp
+test-exes/
+tests/
+vec3d-old.h
